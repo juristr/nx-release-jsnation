@@ -1,0 +1,24 @@
+{
+  "name": "@juriorg/react-query-devtools",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist/**"
+  ],
+  "scripts": {
+    "build": "tsup ./index.ts --format esm,cjs --dts",
+    "dev": "tsup ./index.ts --format esm,cjs --watch --dts",
+    "typecheck": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@juriorg/query-devtools": "*",
+    "@juriorg/react-query": "*"
+  },
+  "devDependencies": {}
+}

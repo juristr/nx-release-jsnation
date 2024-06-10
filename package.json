@@ -1,0 +1,24 @@
+{
+  "name": "@juriorg/source",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juri Strumpflohner",
+  "license": "ISC",
+  "devDependencies": {
+    "nx": "19.2.2",
+    "tsup": "8.1.0",
+    "typescript": "5.4.5",
+    "verdaccio": "^5.0.4"
+  },
+  "workspaces": [
+    "packages/*",
+    "examples/*"
+  ],
+  "dependencies": {
+    "@nx/js": "^19.2.3"
+  }
+}
