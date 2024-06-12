@@ -1,5 +1,5 @@
 export function queryDevtoolsLogic(): string {
-  const name = 'query devtools logic';
+  const name = 'query devtools logic.';
   console.log(name);
   return name;
 }
