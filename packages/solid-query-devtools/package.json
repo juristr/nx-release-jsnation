@@ -1,6 +1,6 @@
 {
   "name": "@juriorg/solid-query-devtools",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -17,8 +17,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@juriorg/query-devtools": "1.2.0",
-    "@juriorg/solid-query": "1.2.0"
+    "@juriorg/query-devtools": "1.3.0",
+    "@juriorg/solid-query": "1.3.0"
   },
   "devDependencies": {}
 }
