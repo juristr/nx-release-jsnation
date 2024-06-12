@@ -1,3 +1,14 @@
+## 1.2.0 (2024-06-12)
+
+
+### 🚀 Features
+
+- github release enabled ([705bd27](https://github.com/juristr/nx-release-jsnation/commit/705bd27))
+
+### ❤️  Thank You
+
+- Juri @juristr
+
 ## 1.1.0 (2024-06-12)
 
 
