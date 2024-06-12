@@ -12,5 +12,10 @@
       "cache": true
     }
   },
+  "release": {
+    "version": {
+      "conventionalCommits": true
+    }
+  },
   "defaultBase": "main"
 }
