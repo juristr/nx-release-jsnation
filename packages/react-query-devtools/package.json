@@ -1,6 +1,6 @@
 {
   "name": "@juriorg/react-query-devtools",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -17,8 +17,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@juriorg/query-devtools": "*",
-    "@juriorg/react-query": "*"
+    "@juriorg/query-devtools": "1.0.0",
+    "@juriorg/react-query": "1.0.0"
   },
   "devDependencies": {}
 }
